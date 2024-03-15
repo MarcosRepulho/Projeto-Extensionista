@@ -41,9 +41,6 @@ Este Readme foi criado com base em informações limitadas disponíveis no momen
 As funcionalidades, tecnologias e instruções de instalação e execução podem sofrer alterações à medida que o projeto se desenvolve.
 Espero que este resumo seja útil! Aguarde o Readme completo para obter mais informações sobre o projeto.
 
-foto do perfil
-git@github.com:MarcosRepulho/Projeto-Extensionista.git faã um read.me desse projeto
-Mostrar rascunhos
 
 
 
